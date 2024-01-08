@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     <div className="flex justify-center items-center text-red-700 font-bold text-4xl">
-      Contact
+      Contact page
     </div>
   );
 };
